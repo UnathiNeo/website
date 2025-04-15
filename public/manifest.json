@@ -1,0 +1,20 @@
+{
+  "short_name": "Bonzonate AI",
+  "name": "Bonzonate AI - South African AI Solutions",
+  "icons": [
+    {
+      "src": "images/bonzonate-logo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#261863",
+  "background_color": "#261863"
+}
